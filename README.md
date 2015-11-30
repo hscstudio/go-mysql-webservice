@@ -51,7 +51,7 @@ go get
 ```
 5. Run Go
 ```
-go rest.go
+go run rest.go
 ```
 6. Access in browser 
 http://localhost:8080/employee
